@@ -7,5 +7,6 @@ code in index.js is based on the article: https://www.javascriptjanuary.com/blog
 one more good article on CRUD operations using node:
 https://medium.com/@debug_mode/step-by-step-building-node-js-based-rest-api-to-perform-crud-operations-on-mongodb-ab18835111d7
 
-
+create-a-rest-api-with-json-server: 
+https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d
 
